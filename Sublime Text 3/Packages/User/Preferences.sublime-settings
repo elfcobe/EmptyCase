@@ -1,0 +1,14 @@
+{
+	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night.tmTheme",
+	"font_face": "Ricty",
+	"font_size": 10.5,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"soda_classic_tabs": true,
+	"soda_folder_icons": true,
+	"tab_size": 4,
+	"theme": "Soda Dark.sublime-theme",
+	"translate_tabs_to_spaces": true
+}

@@ -1,0 +1,19 @@
+<snippet>
+    <content><![CDATA[
+#!/c/Python33/python
+# coding: utf-8
+
+
+def main():
+    ${0:pass}
+
+
+if __name__ == '__main__':
+    main()
+
+]]>
+</content>
+    <tabTrigger>py..</tabTrigger>
+    <scope>source.python</scope>
+    <description>Let's Python coding</description>
+</snippet>

@@ -1,0 +1,11 @@
+{
+    "cmd": ["runhaskell", "$file"],
+    "file_regex": "^(...*?):([0-9]*):?([0-9]*)",
+    "selector": "source.haskell",
+ 
+    "windows":
+    {
+        "encoding": "cp932",   // Windowsコンソールの文字コード指定
+        "path": "C:\\Haskell\\Haskell_Platform_2013.2.0.0\\bin"  // 自分のGHCへのパスを追記
+    }
+}

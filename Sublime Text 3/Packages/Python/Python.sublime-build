@@ -1,0 +1,11 @@
+{
+    "cmd": ["python", "-u", "$file"],
+    "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+    "selector": "source.python",
+ 
+    "windows":
+    {
+        "encoding": "cp932",   // Windowsコンソールの文字コード指定
+        "path": "C:/Python33"  // 自分のPythonへのパスを追記
+    }
+}

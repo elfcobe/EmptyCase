@@ -1,0 +1,7 @@
+{
+    "settings": {
+        "python_interpreter": "C:\\Python33\\",
+        "extra_paths": ["C:\\Users\\elfcobe\\Documents\\fun"]
+    },
+    "pep8_max_line_length": 99
+}
