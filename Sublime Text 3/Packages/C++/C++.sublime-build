@@ -1,5 +1,5 @@
 {
-    "cmd": ["gcc", "$file_name", "-o", "${file_base_name}"],
+    "shell_cmd": "gcc $file_name -o ${file_base_name}",
     "file_regex": "^(..[^:]*):([0-9]+):?([0-9]+)?:? (.*)$",
     "working_dir": "${file_path}",
     "selector": "source.c, source.c++",
@@ -12,7 +12,7 @@
         {
             "name": "Run",
             "encoding": "utf-8",
-            "cmd": ["${file_base_name}.exe"]
+            "shell_cmd": "${file_base_name}.exe"
         }
     ]
 }
