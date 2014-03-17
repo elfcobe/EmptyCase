@@ -40,4 +40,4 @@ PS1='[\[\033[0m\]\u\[\033[00;32m\]@$HOSTNAME\[\033[0m\] \t \w\[\033[0m\]$(__git_
 # Python virtualenvwrapper
 export WORKON_HOME=$HOME/.virtualenvs
 export MSYS_HOME=/c/mingw64/msys
-source /c/Python33/Scripts/virtualenvwrapper.sh
+source /c/Python34/Scripts/virtualenvwrapper.sh
