@@ -6,6 +6,6 @@
     "windows":
     {
         "encoding": "cp932",   // Windowsコンソールの文字コード指定
-        "path": "C:/Python33"  // 自分のPythonへのパスを追記
+        "path": "C:/Python34"  // 自分のPythonへのパスを追記
     }
 }
