@@ -1,10 +1,7 @@
 {
-    "settings": {
-        "GoSublime": {
-            "env": {
-                "GOPATH": "C:\\Go\\bin"
-            }
-        }
+    "env": {
+        "GOPATH": "C:\\Go\\bin;$PATH",
+        "GOROOT": "C:\\Go"
     },
     "folders": ["C:\\Users\\elfcobe\\Documents\\fun\\golang"]
 }
