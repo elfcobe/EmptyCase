@@ -41,3 +41,8 @@ PS1='[\[\033[0m\]\u\[\033[00;32m\]@$HOSTNAME\[\033[0m\] \t \w\[\033[0m\]$(__git_
 export WORKON_HOME=$HOME/.virtualenvs
 export MSYS_HOME=/c/mingw64/msys
 source /c/Python34/Scripts/virtualenvwrapper.sh
+
+# Golang PATH
+export GOROOT=/c/Go
+export GOPATH=/c/gosrc
+export PATH=$PATH:$GOROOT/bin:$GOPATH/bin
