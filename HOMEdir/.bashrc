@@ -44,5 +44,5 @@ source /c/Python34/Scripts/virtualenvwrapper.sh
 
 # Golang PATH
 export GOROOT=/c/Go
-export GOPATH=/c/gosrc
+export GOPATH=/c/Users/elfcobe/AppData/Roaming/gosrc
 export PATH=$PATH:$GOROOT/bin:$GOPATH/bin
