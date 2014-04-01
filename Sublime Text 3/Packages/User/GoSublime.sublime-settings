@@ -3,5 +3,6 @@
         "GOPATH": "C:\\Users\\elfcobe\\AppData\\Roaming\\gosrc;$PATH",
         "GOROOT": "C:\\Go"
     },
-    "folders": ["C:\\Users\\elfcobe\\Documents\\fun\\golang"]
+    "folders": ["C:\\Users\\elfcobe\\Documents\\fun\\golang"],
+    "autoinst": false
 }
