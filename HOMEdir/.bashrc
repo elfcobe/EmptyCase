@@ -23,9 +23,18 @@ alias svn='svn.exe'
  
 # perl
 alias perl='/perl/perl.exe'
+
+# Python
+alias python='/c/Python34/python.exe'
+
+# vi
+alias vi='/c/dev/vim/vim74-kaoriya-win64/vim.exe'
+
+# vim
+alias vim='/c/dev/vim/vim74-kaoriya-win64/gvim.exe'
  
 # SublimeText
-alias sublime='/C/dev/"Sublime Text 3"/sublime_text.exe'
+alias sublime='/c/dev/"Sublime Text 3"/sublime_text.exe'
  
 # gitコマンド用
 source /etc/git-prompt.sh
